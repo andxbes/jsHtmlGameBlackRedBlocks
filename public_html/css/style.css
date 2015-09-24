@@ -1,0 +1,27 @@
+
+body{
+     text-align:center; 
+     margin: auto;
+     
+}
+#gameField{
+    position: relative;
+    background-color: #e0e0e0;
+    margin: 1% auto;
+   
+}
+
+#floatingUnit{
+    position: absolute;
+    cursor: pointer;
+}
+.black{
+    background-color: black;
+}
+.red{
+    background-color: red;
+}
+h2{
+    margin: 0;
+    padding: 0;
+}
